@@ -123,20 +123,14 @@ If you’re a developer looking to master advanced front-end visuals — this is
 **[Syed Laeeq Ahmed](https://www.linkedin.com/in/syed-laeeq-ahmed/)**
 Fullstack Developer | UI/UX Visionary | Motion Design Enthusiast
 
-📩 **[laeeqthedev@icloud.com](mailto:laeeqthedev@icloud.com)**
+📩 **[laeeqahmed656@gmail.com](mailto:laeeqahmed656@gmail.com)**
 🌐 [Portfolio](https://laeeqthedevportfolio.vercel.app/)
 
----
 
-## 🪄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
-
----
 
 > “Good design is intelligence made visible.” — Alina Wheeler
 > *Built with passion, precision, and pixels.*
 
-```
+
 
 
