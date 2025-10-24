@@ -1,0 +1,11 @@
+Day,Topic,Task,Output,Completed
+1,Dev environment,"Install Node.js, PostgreSQL, VSCode extensions (Prettier, ESLint, GitLens)","Fully setup dev environment",False
+2,Repo & Tailwind,"Create GitHub repo template, setup Tailwind + ShadCN + Clerk + GSAP + Framer Motion","Starter project ready",False
+3,React Basics,"Build a small component, use state and props","Simple React component working",False
+4,React Hooks,"Use useEffect, useRef, useState in a mini project","Hook demo functional",False
+5,TypeScript,"Add types to components, interfaces, generics","TS types applied and working",False
+6,Next.js Basics,"Create pages, dynamic routes, link navigation","Next.js routing functional",False
+7,Next.js API Routes,"Build a simple API route returning JSON","API route works correctly",False
+8,Prisma & PostgreSQL,"Setup Prisma schema, create tables, seed data","DB connected with Prisma",False
+9,Authentication,"Implement Clerk auth, login, signup, protect pages","Auth functional",False
+10,GSAP Animations,"Animate a hero section with GSAP + Framer Motion","Hero animation working",False
