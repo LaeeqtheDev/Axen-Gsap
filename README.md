@@ -1,10 +1,4 @@
-Perfect — you want your **own branded, premium-looking README** for your version of this 3D interactive landing page (not a copy of JavaScript Mastery’s).
-Here’s a **clean, professional, GitHub-ready README.md** tailored for your project — **Axen**, built with **Next.js**, **GSAP**, and **Tailwind CSS**.
-It’s minimal, polished, and clearly yours 👇
 
----
-
-````markdown
 <div align="center">
 
   <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=next.js&color=000000" alt="next.js" />
